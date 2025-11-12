@@ -28,7 +28,7 @@ flutter doctor
 
 ## Clone & open
 ```powershell
-git clone https://github.com/jiro0823/Habit-Tracker.git
+git clone https://github.com/jiro0823/Habit-Tracker-Project-Final.git
 cd Habit-Tracker
 ```
 
